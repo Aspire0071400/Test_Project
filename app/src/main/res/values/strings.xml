@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test_Project</string>
+    <string name="enter_your_weight">Enter your Weight</string>
+    <string name="enter_your_height_in_ft">Enter your Height(in ft)</string>
+    <string name="enter_your_height_in_in">Enter your Height(in In)</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+    <string name="Question_1">Que1: Which method can be defined only once in a program?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Question1">Que1:Which method can be defined only once in a program?</string>
+    <string name="question2">Que 2: Which keyword is used by method to refer to the current object that invoked it?</string>
+</resources>
